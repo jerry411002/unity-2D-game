@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 521}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -71,10 +71,10 @@ MonoBehaviour:
     y: 0
     width: 1028
     height: 731
-  m_MinSize: {x: 201, y: 421}
-  m_MaxSize: {x: 4001, y: 8021}
+  m_MinSize: {x: 201, y: 442}
+  m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 37
+  controlID: 42
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -192,10 +192,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 708, y: 492}
-  m_MaxSize: {x: 18003, y: 14042}
+  m_MinSize: {x: 708, y: 471}
+  m_MaxSize: {x: 18003, y: 14021}
   vertical: 0
-  controlID: 153
+  controlID: 41
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -238,10 +238,10 @@ MonoBehaviour:
     y: 0
     width: 232
     height: 731
-  m_MinSize: {x: 232, y: 492}
-  m_MaxSize: {x: 10002, y: 14042}
+  m_MinSize: {x: 232, y: 471}
+  m_MaxSize: {x: 10002, y: 14021}
   vertical: 1
-  controlID: 88
+  controlID: 69
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -490,9 +490,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 7c3a0000
-    m_LastClickedID: 14972
-    m_ExpandedIDs: 000000006e3a0000703a00007a3a000000ca9a3b
+    m_SelectedIDs: 8e530000
+    m_LastClickedID: 21390
+    m_ExpandedIDs: 0000000082530000845300008c53000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -520,7 +520,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006e3a0000703a0000
+    m_ExpandedIDs: 000000008253000084530000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -648,18 +648,18 @@ MonoBehaviour:
       y: 21
       width: 1027
       height: 321
-    m_Scale: {x: 1.2678295, y: 1.2678295}
-    m_Translation: {x: 513.5, y: 162.495}
+    m_Scale: {x: 1.3450402, y: 1.3450402}
+    m_Translation: {x: 513.5, y: 155.21715}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -405.0229
-      y: -128.16786
-      width: 810.0458
-      height: 253.18861
+      x: -381.77298
+      y: -115.399635
+      width: 763.54596
+      height: 238.65457
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1283.75, y: 427.5}
@@ -704,9 +704,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 280.98682, y: 149.63701, z: -13.363618}
+    m_Target: {x: 15.553855, y: 2.2663867, z: 11.388188}
     speed: 2
-    m_Value: {x: 280.98682, y: 149.63701, z: -13.363618}
+    m_Value: {x: 15.155357, y: 2.2177782, z: 11.41804}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -756,9 +756,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 188.06816
+    m_Target: 7.9217634
     speed: 2
-    m_Value: 188.06816
+    m_Value: 8.29504
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -811,21 +811,21 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 185}
-      m_SelectedIDs: befaffff
-      m_LastClickedID: -1346
-      m_ExpandedIDs: 42c5ffff88c6ffffc8c8ffff42cdffff2ce4ffff9cedffffbefaffff5efbffff54390000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: d0b2ffff
+      m_LastClickedID: -19760
+      m_ExpandedIDs: 9ec4ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: "\u904A\u6232\u4ECB\u9762"
-        m_OriginalName: "\u904A\u6232\u4ECB\u9762"
+        m_Name: Particle System
+        m_OriginalName: Particle System
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -1346
+        m_UserData: -18172
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
